@@ -3,7 +3,7 @@ window-padding-x = 25
 window-padding-y = 25
 
 # Themes
-theme = Duckbones 
+theme = rose-pine-moon 
 cursor-style-blink = true
 
 # Hide windows, disable iTerm style tabs 
@@ -31,4 +31,3 @@ font-feature = liga
 # MacOS
 confirm-close-surface = false
 macos-option-as-alt = true
-
