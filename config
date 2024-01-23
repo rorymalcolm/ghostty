@@ -1,0 +1,11 @@
+window-padding-x = 25 
+window-padding-y = 25
+theme = Duckbones 
+font-family = Berkeley Mono
+font-family-bold = Berkeley Mono 
+font-family-italic = Berkeley Mono
+font-family-bold-italic = Berkeley Mono
+font-thicken = true
+cursor-style-blink = true
+macos-non-native-fullscreen = visible-menu 
+window-decoration = false
